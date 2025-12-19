@@ -1,9 +1,8 @@
 🛒 Retail Sales & Customer Analytics Project (RFM Analysis)
-
 📌 Project Overview
 
-  This project is a complete end-to-end retail analytics and customer segmentation analysis using transactional data.
-  The goal is to extract business insights from raw retail data by performing:
+This project is a complete end-to-end retail analytics and customer segmentation analysis using transactional data.
+The goal is to extract business insights from raw retail data by performing:
 
 Data cleaning & preprocessing
 
